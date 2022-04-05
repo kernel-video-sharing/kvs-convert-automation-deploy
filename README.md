@@ -70,6 +70,13 @@ use linode deploy
 ![](.screen/l2.jpg)
 
 
+if the instance image install complete......  
+you will see it in KVS Admin like this  
+
+![](.screen/v3.jpg)
+
+yep, it's automate,you not need do anything   
+
 
 ### Idea
 Many interesting features can be realized based on automated deployment  
